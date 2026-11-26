@@ -29,7 +29,7 @@ Les données, fournies dans le cadre du cours, ne sont pas publiées dans ce dé
 
 ## Évolution du ROA
 
-![ROA moyen par année](images/roa_moyen_par_annee.png)
+![ROA moyen par année](roa_moyen_par_annee.png)
 
 Le ROA moyen progresse régulièrement, de 19,5 % en 2017 à 24,3 % en 2022.
 
@@ -55,7 +55,7 @@ Le ROA moyen progresse régulièrement, de 19,5 % en 2017 à 24,3 % en 2022.
 | CYBER | -1,92 | -1,18 | non |
 | DEPTEC | -0,87 | -0,51 | non |
 
-![Statistiques t classiques vs robustes](images/t_classique_vs_hc3.png)
+![Statistiques t classiques vs robustes](t_classique_vs_hc3.png)
 
 Après correction de l'hétéroscédasticité et de l'autocorrélation, **seule la productivité des employés reste un déterminant significatif du ROA**. Les effets de l'innovation et des investissements technologiques, significatifs avec les écarts-types classiques, ne résistent pas à l'estimation robuste.
 
