@@ -1,0 +1,14 @@
+# Données (non publiées)
+data/
+*.xlsx
+*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Système
+.DS_Store
+Thumbs.db
